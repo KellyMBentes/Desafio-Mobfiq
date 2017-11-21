@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/kelly/Documents/Desafios/Desafio-Mobfiq/MyApplication2/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/kelly/.android/build-cache/a5f7b5634e2fa2c16c262e153037a6b1a019fc2a/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/kelly/Documents/Desafios/Desafio-Mobfiq/MyApplication2/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/kelly/.android/build-cache/a5f7b5634e2fa2c16c262e153037a6b1a019fc2a/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/kelly/Documents/Desafios/Desafio-Mobfiq/MyApplication2/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/kelly/.android/build-cache/a5f7b5634e2fa2c16c262e153037a6b1a019fc2a/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/kelly/Documents/Desafios/Desafio-Mobfiq/MyApplication2/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/kelly/.android/build-cache/a5f7b5634e2fa2c16c262e153037a6b1a019fc2a/output/res/drawable-v21/notification_action_background.xml"
+    }
+]
