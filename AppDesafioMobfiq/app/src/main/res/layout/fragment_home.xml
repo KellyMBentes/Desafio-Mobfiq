@@ -1,13 +1,22 @@
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="desafiomobfiq.com.appdesafiomobfiq.HomeFragment">
+    tools:context="desafiomobfiq.com.appdesafiomobfiq.fragments.HomeFragment"
+    android:orientation="horizontal"
+    android:background="@color/cinzaClaro">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
+    <GridView
+        android:background="@color/cinzaClaro"
+        android:id="@+id/gv_vitrine"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
+        android:numColumns="2"
+        android:horizontalSpacing="10dp"
+        android:verticalSpacing="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_gravity="center">
+    </GridView>
 
-</FrameLayout>
+</LinearLayout>
