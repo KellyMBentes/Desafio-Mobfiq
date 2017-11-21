@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/kelly/Documents/Desafios/Desafio-Mobfiq/MyApplication2/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/kelly/.android/build-cache/a5f7b5634e2fa2c16c262e153037a6b1a019fc2a/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/kelly/Documents/Desafios/Desafio-Mobfiq/MyApplication2/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/kelly/.android/build-cache/a5f7b5634e2fa2c16c262e153037a6b1a019fc2a/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/kelly/Documents/Desafios/Desafio-Mobfiq/MyApplication2/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/kelly/.android/build-cache/a5f7b5634e2fa2c16c262e153037a6b1a019fc2a/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/kelly/Documents/Desafios/Desafio-Mobfiq/MyApplication2/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/kelly/.android/build-cache/a5f7b5634e2fa2c16c262e153037a6b1a019fc2a/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
